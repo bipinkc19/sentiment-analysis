@@ -2,3 +2,31 @@
 
 Learning sentiment analysis using various NLP techniques
 - Tfidf/Count vectorization coupled with naive bayes, logistic regression, etc.
+
+# Results
+
+## Test metrics
+
+### Using count vectorizer
+
+![Bayes](./images/count_vectorizer.png)
+
+### Using tf idf
+
+![Bayes](./images/tf-idf.png)
+
+## Model explanations
+
+### Using Logistic Regression count vectorizer
+
+Words with their importances in positive or negative prediction
+
+![Logistic](./images/positive_count_vectorizer.png)
+![Logistic](./images/negative_count_vectorizer.png)
+
+### Using Logistic Regression tfidf
+
+Words with their importances in positive or negative prediction
+
+![Logistic](./images/positive_tfidf.png)
+![Logistic](./images/negative_tfidf.png)
