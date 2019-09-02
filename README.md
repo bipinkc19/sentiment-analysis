@@ -30,3 +30,8 @@ Words with their importances in positive or negative prediction
 
 ![Logistic](./images/positive_tfidf.png)
 ![Logistic](./images/negative_tfidf.png)
+
+### Using wordToVec embeddings and taking average of all word's embedding
+
+![wordtovec](./images/embeddings.png)
+![wordtovec](./images/embeddings_test.png)
