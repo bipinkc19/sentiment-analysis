@@ -15,7 +15,18 @@ Learning sentiment analysis using various NLP techniques
 
 ![Bayes](./images/tf-idf.png)
 
+## Using wordToVec embeddings and taking average of all word's embedding
+
+![wordtovec](./images/embeddings.png)
+![wordtovec](./images/embeddings_test.png)
+
 ## Model explanations
+
+### Usin LIME
+
+![Lime](./images/lime.png)
+![Lime1](./images/lime.png)
+
 
 ### Using Logistic Regression count vectorizer
 
@@ -31,7 +42,3 @@ Words with their importances in positive or negative prediction
 ![Logistic](./images/positive_tfidf.png)
 ![Logistic](./images/negative_tfidf.png)
 
-### Using wordToVec embeddings and taking average of all word's embedding
-
-![wordtovec](./images/embeddings.png)
-![wordtovec](./images/embeddings_test.png)
