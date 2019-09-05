@@ -22,7 +22,7 @@ Learning sentiment analysis using various NLP techniques
 
 ## Model explanations
 
-### Usin LIME
+### Using LIME
 
 ![Lime](./images/lime.png)
 ![Lime1](./images/lime.png)
